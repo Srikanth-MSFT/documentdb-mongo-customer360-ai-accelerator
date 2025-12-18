@@ -1,0 +1,11 @@
+faker
+python-dotenv
+pymongo
+pandas
+matplotlib
+seaborn
+networkx
+langchain
+langchain_community
+openai
+tiktoken
