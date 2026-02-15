@@ -17,6 +17,6 @@ The Customer 360 AI Solution Accelerator is a ready‑to‑deploy reference impl
 
 # Why Use This Accelerator?
 
-- Try before you build: Explore MongoDB vCore capabilities in a sandboxed Azure environment
+- Try before you build: Explore DocumentDB capabilities in a sandboxed Azure environment
 - Accelerate time-to-value: Use pre-built components to jumpstart your implementation
 - Showcase to stakeholders: Demonstrate real-world use cases like segmentation, fraud detection, and intelligent assistants
